@@ -1,0 +1,20 @@
+<resources>
+    <!-- Strings related to activity_main app -->
+    <string name="app_name">Masterii</string>
+    <string name="icon_play">&#xf04b;</string>
+    <string name="icon_queue">&#xf02e;</string>
+    <string name="icon_list">&#xf03a;</string>
+    <string name="icon_search">&#xf002;</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings related to activity_login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Display name</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_passwordconfirm">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+</resources>

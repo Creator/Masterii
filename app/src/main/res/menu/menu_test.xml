@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_video"
+        android:title="Alphabetical"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_photo"
+        android:title="Top Rated"
+        app:showAsAction="always" />
+</menu>
