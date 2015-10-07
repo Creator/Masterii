@@ -1,3 +1,5 @@
+<strong>Edit:</strong> Sadly, someone keeps DDoSing the website whose API this app uses, causing the admins to enable Cloudflare DDoS protection, which renders this and any other apps useless. Development has ceased for the time being.
+
 <p>Masterii is a work-in-progress Android anime streaming app.<br/>
 Currently most of the features have yet to be implemented.<br/>
 Browsing works, however.
